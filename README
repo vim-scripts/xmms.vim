@@ -1,0 +1,15 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1080
+
+This script maps xmms control functions to the following functionkeys:
+
+F6        Decrease volume by 5%
+F7        Increase volume by 5%
+F8        Show title of currently playing song
+F9        Open XMMS
+S-F9    Close XMMS
+F10      Start playing
+S-F10  Stop playing
+F11      Pause playing
+S-F11  Toggle shuffle
+F12      Play next
+S-F12  Play previous
